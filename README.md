@@ -14,5 +14,5 @@ table <goodban> persist file "/tmp/tazik/goodban/bantable.txt"
 
 <h3>Добавляем первым фильтрующим правилом:</h3><br>
 block drop in quick from <goodban>
-
+<br><br><br>
 Enjoy!
