@@ -13,6 +13,6 @@ git clone https://github.com/hExcalibur2801/goodban.git
 table &ltgoodban&gt persist file "/tmp/tazik/goodban/bantable.txt"
 
 <h3>Добавляем первым фильтрующим правилом:</h3><br>
-block drop in quick from &ltgoodban>&gt
+block drop in quick from &ltgoodban&gt
 <br><br><br>
 Enjoy!
