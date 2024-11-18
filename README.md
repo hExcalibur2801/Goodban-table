@@ -10,7 +10,7 @@
 git clone https://github.com/hExcalibur2801/goodban.git
 <br><br>
 <h3>Добавляем таблицу в pf(pf.conf):</h3><br>
-table <goodban> persist file "/tmp/tazik/goodban/bantable.txt"
+table &ltgoodban&gt persist file "/tmp/tazik/goodban/bantable.txt"
 
 <h3>Добавляем первым фильтрующим правилом:</h3><br>
 block drop in quick from <goodban>
